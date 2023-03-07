@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pacman
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pacman\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Pacman()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ stopAtWalls()
+comment4.params=
+comment4.target=void\ checkScore()
+comment5.params=
+comment5.target=void\ scoreHud()
+comment6.params=
+comment6.target=void\ prepareImage()
+comment7.params=
+comment7.target=void\ handleKeys()
+comment8.params=
+comment8.target=void\ animations()
+comment9.params=
+comment9.target=void\ movePacman()
+numComments=10
